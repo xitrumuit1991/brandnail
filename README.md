@@ -1,3 +1,4 @@
 # brandnail
-Help people interested in this repository understand your project by adding a README.
+ - HTML basic 
+- Help people interested in this repository understand your project by adding a README.
 
